@@ -63,6 +63,8 @@ Performed deep data analysis by solving the following queries:
 - Created an **interactive and dynamic Power BI Dashboard** to visualize key insights from the dataset.
 - Incorporated charts, graphs, and KPIs for a **powerful and engaging representation** of findings.
 - Filtered data by medical conditions, billing insights, patient demographics, and more.
+- Dashboard Interaction to <a href = "https://github.com/rizwankhan-analyst/Healthcare-Project/blob/main/Screenshot%202025-02-01%20180310.png">View Dashboard</a>
+- Dashboard Interaction to <a href = "
 
 ## Project Files
 - **Healthcare Project.csv**: Raw dataset used for analysis.
