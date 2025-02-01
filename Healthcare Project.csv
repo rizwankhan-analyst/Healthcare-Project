@@ -1,0 +1,42 @@
+Row Labels,Sum of  Billing Amount ,,,Row Labels,Sum of  Billing Amount ,,,Row Labels,Sum of  Billing Amount ,,
+A-,178371727.1,,,Arthritis,237329120.3,,,Elective,477609531.8,,
+A+,178522724,,,Asthma,235459765.3,,,Emergency,465811948.7,,
+AB-,178451310.3,,,Cancer,232167861.3,,,Urgent,474010562.9,,
+AB+,176186054.3,,,Diabetes,238539725.6,,,Grand Total,1417432043,,
+B-,177241604.5,,,Hypertension,235720650.3,,,,,,
+B+,176609427.9,,,Obesity,238214920.6,,,,,,
+O-,177396738.9,,,Grand Total,1417432043,,,,,,
+O+,174652456.3,,,,,,,,,,
+Grand Total,1417432043,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,Row Labels,Sum of Patient Duration,,
+,,,,Row Labels,Count of Name,,,Abnormal,288895,,
+Row Labels,Count of Name,,,Female,27726,,,Inconclusive,283955,,
+January,4692,,,Male,27774,,,Normal,287900,,
+February,4255,,,Grand Total,55500,,,Grand Total,860750,,
+March,4672,,,,,,,,,,
+April,4518,,,,,,,,,,
+May,4599,,,,,,,,,,
+June,4699,,,,,,,,,,
+July,4812,,,,,,,,,,
+August,4832,,,,,,,,,,
+September,4546,,,,,,,,,Row Labels,Count of Name
+October,4678,,,Row Labels,Count of Name,,,,,Aetna,10913
+November,4548,,,Arthritis,9308,,,,,Blue Cross,11059
+December,4649,,,Asthma,9185,,,,,Cigna,11249
+Grand Total,55500,,,Cancer,9227,,,,,Medicare,11154
+,,,,Diabetes,9304,,,,,UnitedHealthcare,11125
+Row Labels,Count of Date of Admission,,,Hypertension,9245,,,,,Grand Total,55500
+Sunday,7920,,,Obesity,9231,,,,,,
+Monday,7866,,,Grand Total,55500,,,,,,
+Tuesday,7982,,,,,,,,,,
+Wednesday,7950,,,,,,,,,,
+Thursday,7989,,,,,,,,,,
+Friday,7892,,,,Row Labels,Count of Name,,,,,
+Saturday,7901,,,,Aspirin,11094,,,,,
+Grand Total,55500,,,,Ibuprofen,11127,,,,,
+,,,,,Lipitor,11140,,,,,
+,,,,,Paracetamol,11071,,,,,
+,,,,,Penicillin,11068,,,,,
+,,,,,Grand Total,55500,,,,,
